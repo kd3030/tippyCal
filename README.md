@@ -2,26 +2,29 @@
 
 # Pre-work - Tip Calculator
 
-tippyCal is a tip calculator application for iOS.
+tippyCal is a tip calculator application as well as divide total amount per friends (going dutch)
 
 Submitted by: Kunal Desai
 
-Time spent: 2.5 hours spent in total
+Time spent: 8 hours spent in total
 
 ## User Stories
 
 The following **required** functionality is complete:
 * [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
+
 The following **optional** features are implemented:
 * [ ] Custom font
 
+New functionality implemented
+* [ ] It also divides amount among 3, 4 and 5 friends
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-[gif animation](tippyCal.gif)
+[gif animation](tippyCal_ver2.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
